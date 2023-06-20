@@ -1,4 +1,4 @@
-# T4DS Workshop
+# My T4DS Workshop
 
 ## Instructions for Contribution:
 
@@ -8,7 +8,6 @@
 
 ### Writing a Post
 
-Every post starts with a header so that the site can incorporate it properly. This is in the format:
 
 ```
 ---
@@ -54,9 +53,9 @@ ___
 ___
 
 
-If you want to see the built site, check it out 
+If you want to see the built site, check it out
 [here](https://comptag.github.io/t4ds/). It normally takes 3 ish minutes to build.
-You can also do this locally using jekyll, though it's not the easiest to set up. 
+You can also do this locally using jekyll, though it's not the easiest to set up.
 In a time crunch, I recommend just doing this online.
 
 ---
